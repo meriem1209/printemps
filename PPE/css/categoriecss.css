@@ -165,6 +165,16 @@
 .btn-primary:active { background-color:#F4C9E4!important;
  }
 
+.filterDiv {
+	float: left;
+	color: #ffffff;
+	display: none; /* Hidden by default */
+ }
+  
+.show {
+	display: block;
+ }
+
 .about-section {
  	padding-top:10rem;
  	background:-webkit-gradient(linear,left top,left bottom,from(#161616),color-stop(75%,rgba(22,22,22,.9)),to(rgba(22,22,22,.8)));
@@ -280,6 +290,7 @@ body {
 a { 
 	color:#F4C9E4
 }
+
 
 a:focus,a:hover {
 	text-decoration:none;

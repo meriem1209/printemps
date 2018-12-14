@@ -56,7 +56,7 @@
               <a class="nav-link js-scroll-trigger" href="#projects">Présentation</a>
             </li>
             <li class="nav-item">
-            	<a class="nav-link js-scroll-trigger" href="#inscrire">S'inscrire</a>
+            	<a class="nav-link js-scroll-trigger" href="#inscrire">S'identifier</a>
             </li>
             <li class="nav-item">
               <a class="nav-link js-scroll-trigger" href="#contact">Contact</a>
@@ -123,7 +123,7 @@
                   <h4 class="text-white">Client</h4>
                   <p class="mb-0 text-white-50">Grâce à Printemps Event's ne vous melez plus les pinceaux, votre organisation d'événement en ligne en quelques clics </p>
                   <hr class="d-none d-lg-block mb-0 ml-0">
-                  <a href="connexion.php">Espace Client</a>
+                  <a href="controller/connexion_client.php">Espace Client</a>
                 </div>
               </div>
             </div>
@@ -142,7 +142,7 @@
                   <h4 class="text-white">Prestataire</h4>
                   <p class="mb-0 text-white-50">Another example of a project with its respective description. These sections work well responsively as well, try this theme on a small screen!</p>
                   <hr class="d-none d-lg-block mb-0 mr-0">
-                  <a href="Prestataire/inscription.php">Espace pro</a>
+                  <a href="controller/connexion_prestataire.php">Espace pro</a>
                 </div>
               </div>
             </div>
@@ -162,9 +162,9 @@
             <div class="card py-4 h-100">
               <div class="card-body text-center">
                 <i class="fas fa-map-marked-alt text-primary mb-2"></i>
-                <h4 class="text-uppercase m-0">Address</h4>
+                <h4 class="text-uppercase m-0">Addresse</h4>
                 <hr class="my-4">
-                <div class="small text-black-50">4923 Market Street, Orlando FL</div>
+                <div class="small text-black-50">64 Boulevard Haussmann, 75009 Paris</div>
               </div>
             </div>
           </div>
@@ -176,7 +176,7 @@
                 <h4 class="text-uppercase m-0">Email</h4>
                 <hr class="my-4">
                 <div class="small text-black-50">
-                  <a href="#">hello@yourdomain.com</a>
+                  <a href="#">contact@printemps-events.fr</a>
                 </div>
               </div>
             </div>
@@ -186,9 +186,9 @@
             <div class="card py-4 h-100">
               <div class="card-body text-center">
                 <i class="fas fa-mobile-alt text-primary mb-2"></i>
-                <h4 class="text-uppercase m-0">Phone</h4>
+                <h4 class="text-uppercase m-0">Téléphone</h4>
                 <hr class="my-4">
-                <div class="small text-black-50">+1 (555) 902-8832</div>
+                <div class="small text-black-50">01 54 20 68 85</div>
               </div>
             </div>
           </div>

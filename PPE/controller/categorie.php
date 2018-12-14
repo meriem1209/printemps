@@ -29,6 +29,7 @@
     <nav class="navbar navbar-expand-lg navbar-light fixed-top" id="mainNav">
       <div class="container">
         <a class="navbar-brand js-scroll-trigger" href="#page-top">Printemps Events</a>
+        <a class="navbar-brand js-scroll-trigger" href="#page-top">Espace client</a>
       </div>
     </nav>
 
@@ -67,7 +68,7 @@
                   <h4 class="text-white">Mariage</h4>
                   <p class="mb-0 text-white-50">Entrer dans le monde féerique du mariage.</p>
                   <hr class="d-none d-lg-block mb-0 ml-0">
-                  <a href="Client/index.php">Allons y !</a>
+                  <a href="mariage.php">Allons y !</a>
                 </div>
               </div>
             </div>
@@ -144,9 +145,9 @@
             <div class="card py-4 h-100">
               <div class="card-body text-center">
                 <i class="fas fa-map-marked-alt text-primary mb-2"></i>
-                <h4 class="text-uppercase m-0">Address</h4>
+                <h4 class="text-uppercase m-0">Addresse</h4>
                 <hr class="my-4">
-                <div class="small text-black-50">4923 Market Street, Orlando FL</div>
+                <div class="small text-black-50">64 Boulevard Haussmann, 75009 Paris</div>
               </div>
             </div>
           </div>
@@ -158,7 +159,7 @@
                 <h4 class="text-uppercase m-0">Email</h4>
                 <hr class="my-4">
                 <div class="small text-black-50">
-                  <a href="#">hello@yourdomain.com</a>
+                  <a href="#">contact@printemps-events.fr</a>
                 </div>
               </div>
             </div>
@@ -168,9 +169,9 @@
             <div class="card py-4 h-100">
               <div class="card-body text-center">
                 <i class="fas fa-mobile-alt text-primary mb-2"></i>
-                <h4 class="text-uppercase m-0">Phone</h4>
+                <h4 class="text-uppercase m-0">Téléphone</h4>
                 <hr class="my-4">
-                <div class="small text-black-50">+1 (555) 902-8832</div>
+                <div class="small text-black-50">01 54 20 68 85</div>
               </div>
             </div>
           </div>

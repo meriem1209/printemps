@@ -40,6 +40,8 @@
                 }$chaineChamps = implode(",",$champ);
 
                 $requete = "insert into ".$this->table." values (null, ".$chaineChamps.");";
+               // echo $requete ; 
+               // var_dump($donnees);
                 $insert = $this->pdo->prepare($requete);
                 $insert->execute($donnees); 
             }

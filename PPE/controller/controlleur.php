@@ -1,5 +1,5 @@
 <?php
-    include("model/modele.php");
+    include("../model/modele.php");
     class Controlleur{
         private $unModele;
         public function __construct($server, $bdd, $user, $mdp){
